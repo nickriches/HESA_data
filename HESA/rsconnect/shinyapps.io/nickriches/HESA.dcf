@@ -1,0 +1,14 @@
+name: HESA
+title:
+username:
+account: nickriches
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5924561
+bundleId: 5727011
+url: https://nickriches.shinyapps.io/HESA/
+when: 1648221152.28343
+lastSyncTime: 1648221152.28344
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_original.R|app_v2.R|app_v3.R
