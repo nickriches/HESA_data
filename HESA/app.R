@@ -129,7 +129,7 @@ server <- function(input, output, session) {
         # req(unis())
         
         g <- ggplot(data = df.plot %>%
-                             filter(year_ending != 2021 & year_ending != 2019) %>% 
+                             # filter(year_ending != 2021 & year_ending != 2019) %>% 
                              filter(`HE Provider` %in% unis()),
                     aes(x = year_ending, y = perc, colour = `HE Provider`))
         
